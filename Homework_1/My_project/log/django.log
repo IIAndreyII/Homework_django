@@ -1,0 +1,5 @@
+
+INFO 2023-09-11 17:02:42,341 autoreload 19792 11456 Watching for file changes with StatReloader
+INFO 2023-09-11 17:02:44,518 basehttp 19792 12544 "GET / HTTP/1.1" 200 163
+INFO 2023-09-11 17:02:58,942 basehttp 19792 12544 "GET /about HTTP/1.1" 200 127
+INFO 2023-09-11 17:03:06,267 basehttp 19792 12544 "GET /about HTTP/1.1" 200 127
